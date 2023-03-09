@@ -11,13 +11,12 @@ $resultado $multiplicador * $multiplicando;
 
 printf( " $multiplicador x $multiplicando = $resultado \n");
 
-$multiplicando+;
-$multbolicadors;
+$multiplicando++;
 
 printf("\n");
 
 }
-
+$multiplicador++;
 }
 
 ?>
