@@ -13,3 +13,5 @@ while( $e <= $q * 2 ){
     printf(" %d \n", pow($x, $e) / $e );
 }
 printf("Total = $soma");
+
+?>
